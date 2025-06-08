@@ -2,8 +2,8 @@
 
 A beautifully crafted UI/UX design for a Food Recipe App that helps users explore recipes from around the world. This design focuses on ease of use, visual appeal, and smooth navigation.
 
-![App UI Screens](![image](https://github.com/user-attachments/assets/48c69080-7c4a-4480-bf98-a2482a12e5bf))
-
+![App UI Screens]:
+![image](https://github.com/user-attachments/assets/39490061-2a79-4ec5-867a-7d45502f3829)
 ---
 
 ## 📲 App Screens Included
@@ -38,7 +38,9 @@ This UI design includes 7 key pages:
 🌐 Live Demo
 https://drive.google.com/file/d/12G4xIlkPenGJarn8Ldd8tICwmQ31NxsE/view?usp=drive_link
 
- Contact
+Designed by: pavuluru sudharshan chowdary
+
+Contact
 For suggestions or collaboration:
 
 📧 Email: psudharshanc@gmail.com
